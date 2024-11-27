@@ -1,6 +1,5 @@
 # Iris_classification_deployment
 
-# Iris Classification Deployment
 
 This repository contains the deployment of an Iris classification machine learning model. The project is designed to classify iris flowers into one of three species: *Iris-setosa*, *Iris-versicolor*, or *Iris-virginica* based on sepal and petal measurements.
 
